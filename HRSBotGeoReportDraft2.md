@@ -88,6 +88,7 @@ Although the conical shape was tested by the HRS Summer 2018 team, the centered 
 
 ![Symmetrical AguaClara Plant Design](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/off%20center%20cone%20CAD.PNG)
 ![Symmetrical AguaClara Plant Design](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/off%20center%20cone.PNG)
+
 **Figure 6: Off-center conical insert with circular cross sections and water inlet at the tip.**
 
 **END OF DRAFT 1**
