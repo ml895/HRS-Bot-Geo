@@ -33,9 +33,7 @@ The HRS Summer 2018 experiments confirm that an upflow velocity of 3 mm/s and a 
 
 A previous Fluoride team proposed another change in the bottom geometry in which the bottom of the tube was cut at an angle and the bottom was closed except for a small part at the longest part of the tube for the inflow. The tube was essentially "squished" at the bottom such that the cross sectional areas are more rectangular than circular. This prevents flocs from locking together in a ring and causing buildup at the bottom. The stream of water broke up the buildup and allowed flocs to recirculate in the tube settler.
 
-<p align = center>
-  <img src="/Images/Summer 2018 Experiments/TriSedTank.jpeg" width = 400> </a>
-</p>
+![Sliced tube bottom geometry](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/TriSedTank.jpeg)
 
   **Figure 2: Sliced tube bottom geometry by previous Fluoride team.**
 
@@ -83,7 +81,9 @@ As seen in Figure 5 above, this design closely resembled the AguaClara plant, wi
 Design 2 - Off-centered cone
 Although the conical shape was tested by the HRS Summer 2018 team, the centered de
 
-
+![Symmetrical AguaClara Plant Design](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/off%20center%20cone%20CAD.PNG)
+![Symmetrical AguaClara Plant Design](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/off%20center%20cone.PNG)
+**Figure 6: Off-center conical insert with circular cross sections and water inlet at the tip.**
 
 ## Results and Analysis
 Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
