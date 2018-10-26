@@ -21,6 +21,7 @@ One of the two teams that proposed changes in the bottom geometry of the tube se
 |[14](#experiment-14)|4|4.5 <br/> with higher pump speed|Yes|~30 NTU|Gelling still observed; 4 mm/s may be too high|
 |[15](#experiment-15)|3|4.5|Yes|27 NTU (at 1 hr)| With inserted, flat surfaced sedimentation tank bottom to observe floc buildup|
 |[16](#experiment-16)|3|4.5|Yes|22 NTU|With conical sedimentation tank bottom, flocs are still building up|
+
 **Table 1: Summary of HRS Summer 2018 experiment results**
 
 The HRS Summer 2018 experiments confirm that an upflow velocity of 3 mm/s and a coagulant dosage of 4.5 mg/L are optimal parameters for high rate sedimentation; they also confirm that a flat and conical bottom cause floc buildup. These parameters are used in the current High Rate Sedimentation Team methods.
