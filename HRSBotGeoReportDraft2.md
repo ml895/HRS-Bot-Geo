@@ -67,6 +67,7 @@ Throughout the experiments, the primary data collected and analyzed was the effl
 
 ### Designing Inserts
 Design 1 - Symmetrical AguaClara Plant Design
+
 As the issue of the unstable floc blanket was limited to the lab and not the actual AguaClara plant, the first design was inspired by the design of the AguaClara plant.
 
 ![Design of AguaClara Plant](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/AC%20plant%20filter.PNG)
@@ -84,6 +85,7 @@ Inspired by this design, the HRS Bottom Geometry Team along with the Fluoride Au
 As seen in Figure 5 above, this design closely resembled the AguaClara plant, with the primary difference having been the centered input. This decision was made primarily due to the design of the tube settler, as an off-centered insert would not align with the centered inflow tube at the bottom of the tube settler. Although the bottom of the design was a square due to complication in 3D drawing, this would then easily be modified once 3D printed by drilling.
 
 Design 2 - Off-centered Cone
+
 Although the conical shape was tested by the HRS Summer 2018 team, the centered design still caused a buildup of flocs. The off-center conical shape most closely resembles the sliced tube filter designed by a previous Fluoride team. If the water inflow comes from the side of the tube, it can break up the rings of flocs that would have otherwise collected near the bottom.
 
 ![Symmetrical AguaClara Plant Design](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/off%20center%20cone%20CAD.PNG)
