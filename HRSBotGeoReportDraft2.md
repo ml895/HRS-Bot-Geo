@@ -46,8 +46,8 @@ The data utilized to compare and analyze the performance of the filter insert wa
 
 ### Experimental Apparatus
 
-  ![HRS Bottom Geometry Apparatus](https://github.com/AguaClara/HRS-Bot-Geo/blob/master/ExperimentalApparatus.PNG?raw=true)
-**Figure 3- High Rate Sedimentation Fall 2018 Apparatus**
+  ![HRS Bottom Geometry Apparatus](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/ExperimentalApparatus.PNG)
+**Figure 3: High Rate Sedimentation Fall 2018 Apparatus**
 
 As shown in the Figure above, the overall experimental setup consists of a flocculator, clay and coagulant reservoirs, tube settler, and four distinct pumps. The first pump controls the water flow throughout the system with the flow rate set manually. The second pump is controlled by ProCoDa with the use of PID Control to dose clay into the system to create 100 NTU influent water. The third pump is used to control the coagulant dose and this too is set manually. The final pump is used to pump effluent out of the floc weir prevent the buildup of too many flocs. An additional pump is available, but not in use, to isolate the flowrate into the sedimentation tank.
 
