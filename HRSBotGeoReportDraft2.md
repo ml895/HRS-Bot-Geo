@@ -65,7 +65,7 @@ Steps on how the HRS Bottom Geometry experimental apparatus was used are detaile
 
 Throughout the experiments, the primary data collected and analyzed was the effluent turbidity.
 
-###Designing Inserts
+### Designing Inserts
 Design 1 - Symmetrical AguaClara Plant Design
 As the issue of the unstable floc blanket was limited to the lab and not the actual AguaClara plant, the first design was inspired by the design of the AguaClara plant.
 ![Design of AguaClara Plant](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/AC%20plant%20filter.PNG)
