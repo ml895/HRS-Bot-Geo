@@ -6,18 +6,15 @@
 The purpose of the High Rate Sedimentation (HRS) Bottom Geometry is to determine a method for eliminating or reducing the floc blanket decay currently occurring in sedimentation tanks in the lab. The team hopes to accomplish this by developing a new shape and geometry for the bottom of the sedimentation tube in order to maximize the reuse of large settling flocs.
 
 ## Introduction
-The main challenge for the Bottom Geometry team is finding an optimal bottom geometry of the tube settler. The bottom geometry influences the density of the floc blanket, which is a dense layer of suspended flocs which allows particulates which have not coagulated, or coagulated particulates too small to settle, to attach onto the flocs which can be removed. 
 
-Finding an optimal bottom geometry of the tube settler is vital to sedimentation because it can increase sedimentation efficiency by evening the floc blanket in the settler. Sedimentation is a crucial part of a water treatment plants as it acts as the major removal method for suspended and coagulated minerals, dirt and particles.
+The High Rate Sedimentation: Bottom Geometry Team was created to improve sedimentation, which is a crucial part of the water treatment process as it acts as the major removal method for suspended and coagulated minerals, dirt and particles. The main challenge for the Bottom Geometry Team is finding an optimal bottom geometry of the tube settler to prevent sediment buildup at the bottom. Although the sediment buildup does not affect sedimentation efficiency, this buildup should be avoided to make the cleaning of the apparatus easier. The bottom geometry influences the density of the floc blanket, a dense layer of suspended flocs to which small or uncoagulated particles can attach and subsequently be removed.
 
-[EM: Too many "which" in the second sentence. Consider revising and making it shorter. Also, consider introducing the purpose of sedimentation first. It allows a natural lead-in to the rest of the introduction.]
-
-However, in the AguaClara lab, the floc blanket would initially form but decay with time. Thus, the performance of the system drastically decreased. After discussions regarding the differences between the design of the sedimentation tanks in the plants and in the lab, the High Rate Sedimentation: Bottom Geometry team was created to determine the optimal shape of the input of water into the sedimentation tubes in the lab to ensure the consistent formation of a stable floc blankets.
+However, in the AguaClara lab, the floc blanket would initially form but decay with time, so the performance of the system drastically decreased. After discussions regarding the differences between the design of the sedimentation tanks in the plants and in the lab, the High Rate Sedimentation: Bottom Geometry team was created to determine the optimal shape of the input of water into the sedimentation tubes in the lab to ensure the consistent formation of a stable floc blankets.
 
 ## Literature Review and Previous Work
-One of the two teams that proposed changes in the bottom geometry of the tube settler was a previous high rate sedimentation team in the summer of 2018. They initially started with a flat bottom, but buildup was observed and was growing about half an inch in height every ten minutes. They then made a conical drilling in the bottom with the water inflow tube in the center. This still led to buildup of flocs at the bottom, which was hypothesized to be a result of a ring of flocs locking together in a circle that is bigger than the drilled hole, preventing resuspension of those flocs.
+A previous High Rate Sedimentation Team proposed changes to the bottom geometry of the tube settler in the summer of 2018. The tube settler initially had a flat bottom, but buildup was observed and was growing about half an inch in height every ten minutes. They then made a conical drilling in the bottom with the water inflow tube in the center. This still led to buildup of flocs at the bottom, which was hypothesized to be a result of a ring of flocs locking together in a circle that is bigger than the drilled hole, preventing resuspension of those flocs.
 
-[EM: The first sentence is awkward and grammatically incorrect. Be consistent with capitalization and proper nouns. "They" is too informal.]
+**Table 1: Summary of HRS Summer 2018 experiment results**
 
 |Experiment|Upflow Velocity (mm/s)|Coagulant Dosage (mg/L)|Floc Blanket Formed|Ending Effluent Turbidity|Insights|
 |:---:|:---:|:--------:|:---|:------|:---|
@@ -28,50 +25,37 @@ One of the two teams that proposed changes in the bottom geometry of the tube se
 |[15](#experiment-15)|3|4.5|Yes|27 NTU (at 1 hr)| With inserted, flat surfaced sedimentation tank bottom to observe floc buildup|
 |[16](#experiment-16)|3|4.5|Yes|22 NTU|With conical sedimentation tank bottom, flocs are still building up|
 
-**Table 1: Summary of HRS Summer 2018 experiment results**
-
 The HRS Summer 2018 experiments confirm that an upflow velocity of 3 mm/s and a coagulant dosage of 4.5 mg/L are optimal parameters for high rate sedimentation; they also confirm that a flat and conical bottom cause floc buildup. These parameters are used in the current High Rate Sedimentation Team methods.
-
-[EM: Captions for tables go above the table.]
 
 ![Conical Insert 1](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/ConicalBottom.jpg)
 
 ![Conical Insert 1](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/conicalbottom2.png)
 
-  **Figure 1: Conical filter insert by HRS Summer 2018.**
+**Figure 1: Conical filter insert by HRS Summer 2018. **
 
 A previous Fluoride team proposed another change in the bottom geometry in which the bottom of the tube was cut at an angle and the bottom was closed except for a small part at the longest part of the tube for the inflow. The tube was essentially "squished" at the bottom such that the cross sectional areas are more rectangular than circular. This prevents flocs from locking together in a ring and causing buildup at the bottom. The stream of water broke up the buildup and allowed flocs to recirculate in the tube settler.
 
-[EM: Make sure to credit the correct fluoride team; imagine someone outside of AguaClara needs to find that research report in which you're referring to.]
-
 ![Sliced tube bottom geometry](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/TriSedTank.jpeg)
 
-  **Figure 2: Sliced tube bottom geometry by previous Fluoride team.**
+**Figure 2: Sliced tube bottom geometry by previous Fluoride team. Click [this link](https://www.youtube.com/watch?v=EajLuP6eX9w&feature=youtu.be) for a video of the sedimentation tank.**
 
 ## Methods
-The main focus of the High Rate Sedimentation Bottom Geometry team was floc blanket stability through the modification of shape input of water into the tube settler. Hence, the independent variable of the experiments conducted by the team was the shape of the bottom and the dependent variable was the floc blanket performance and stability. Hence, critical controlled variables were the flow rate, shear, coagulant dose and influent turbidity.
+The main focus of the High Rate Sedimentation Bottom Geometry team was floc blanket stability through the modification of shape input of water into the tube settler. Hence, the independent variable of the experiments conducted by the team was the shape of the bottom and the dependent variable was the floc blanket performance and stability. Hence, critical controlled variables were the flow rate, coagulant dose and influent turbidity.
 
-The flow rate through the system was calculated in accordance to the desired up-flow velocity of 3mm/s, as determined by the work conducted by the HRS Summer 2018 team. As the tube settler had an inner diameter of 1 inch, using the formula dV/dt=pi*r^2*dh/dt, the flow rate of 90ml/min was set. The shear utilized was standardized with that of the HRS Summer 2018 team, and the majority of the AguaClara team, by utilizing the same flocculator as they were previously using. The coagulant dose of 7mg/L was chosen by the HRS Bottom Geometry team to ensure coagulant is not a limiting factor in the system. Finally, the influent turbidity chosen was 100 NTU which is the standardized influent turbidity for the AguaClara HRS teams.
+The flow rate through the system was calculated in accordance to the desired up-flow velocity of 3mm/s, as determined by the work conducted by the HRS Summer 2018 team. As the tube settler had an inner diameter of 1 inch, using the formula dV/dt=pi*r^2*dh/dt, the flow rate of 90ml/min was set. The coagulant dose of 4.2mg/L was chosen by the HRS Bottom Geometry team to ensure coagulant is not a limiting factor in the system. Finally, the influent turbidity chosen was 100 NTU which is the standardized influent turbidity for the AguaClara HRS teams.
 
-[EM: Make sure to state all the numerical values of the givens, not just mention them.]
-
-The data utilized to compare and analyze the performance of the filter insert was the effluent turbidity as it provided comparable values to determine the floc blanket performance and stability. The minimum effluent NTU would directly correlate with the performance, with lower values meaning better performance. Additionally, the time taken before the effluent NTU begins to increase after reaching peak performance would determine the floc stability. This would be a comparable measure for floc blanket stability as the longer it would take for the effluent to start increasing, the more stable the blanket is.
-
-[EM: The sentence starting with "the time taken before..." is confusing. Consider revising. Determine if it is necessary if the last sentence says the same thing.]
+The data utilized to compare and analyze the performance of the filter insert was the effluent turbidity as it provided comparable values to determine the floc blanket performance and stability. The minimum effluent NTU would directly correlate with the performance, with lower values meaning better performance. Additionally, the floc blanket stability would be determined by the time it takes for the effluent turbidity to start increasing after reaching the maximum removal, as the longer the time it takes for the turbidity to increase, the more stable the blanket would be.
 
 ### Experimental Apparatus
 
   ![HRS Bottom Geometry Apparatus](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/ExperimentalApparatus.PNG)
+
 **Figure 3: High Rate Sedimentation Fall 2018 Apparatus**
 
-As shown in the Figure above, the overall experimental setup consists of a flocculator, clay and coagulant reservoirs, tube settler, and four distinct pumps. The first pump controls the water flow throughout the system with the flow rate set manually. The second pump is controlled by ProCoDa with the use of PID Control to dose clay into the system to create 100 NTU influent water. The third pump is used to control the coagulant dose and this too is set manually. The final pump is used to pump effluent out of the floc weir prevent the buildup of too many flocs. An additional pump is available, but not in use, to isolate the flow rate into the sedimentation tank.
-
-[EM: Explain the last sentence.]
+As shown in the Figure above, the overall experimental setup consists of a flocculator, clay and coagulant reservoirs, tube settler, and four distinct pumps. The first pump controls the water flow throughout the system with the flow rate set manually. The second pump is controlled by ProCoDa with the use of PID Control to dose clay into the system to create 100 NTU influent water. The third pump is used to control the coagulant dose and this too is set manually. The final pump is used to pump effluent out of the floc weir prevent the buildup of too many flocs.
 
 ### Procedure
-Steps on how the HRS Bottom Geometry experimental apparatus was used are detailed below.
-
-[EM: "Used" isn't the right word for this context. More like "set-up," or "instructions for use."]
+The procedure of setting up the HRS Bottom Geometry experimental apparatus is detailed below.
 
 1. Use Python coagulant dosing calculation to determine the required coagulant pump speed for the desired coagulant dosage.
 2. Check all valves and connections to make sure desired pathways are clear and undesired pathways are blocked.
@@ -81,9 +65,7 @@ Steps on how the HRS Bottom Geometry experimental apparatus was used are detaile
 6. Turn on influent and coagulant pumps.
 7. Set state to PID control in ProCoDA (this will turn on clay pump).
 
-Throughout the experiments, the primary data collected and analyzed was the effluent turbidity.
-
-[EM: If turbidity is measured, turbidimeters must have been used in your instructions.]
+Throughout the experiments, the primary data collected and analyzed was the effluent turbidity. This was measured automatically by ProCoDa and logged into an excel file for analysis once the experiment is over.
 
 ### Designing Inserts
 Design 1 - Symmetrical AguaClara Plant Design
