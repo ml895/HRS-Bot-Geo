@@ -1,6 +1,6 @@
 # High Rate Sedimentation - Bottom Geometry, Fall 2018
 #### Kanha Matai (km694), Madeleine Lee (ml895)
-#### 14 Oct 2018
+#### 14 Nov 2018
 
 ## Abstract
 The purpose of the High Rate Sedimentation (HRS) Bottom Geometry is to determine a method for eliminating or reducing the floc blanket decay currently occurring in sedimentation tanks in the lab. The team hopes to accomplish this by developing a new shape and geometry for the bottom of the sedimentation tube in order to maximize the reuse of large settling flocs.
@@ -76,9 +76,7 @@ As the issue of the unstable floc blanket was limited to the lab and not the act
 
 **Figure 4: Design of Sedimentation Tank in AguaClara Plants**
 
-As seen through Figure 4, the AguaClara sedimentation tanks utilize two sloped surfaces to guide settling particles into the central high flow area. The off-centered input of water results in a difference in end results of the settling flocs. The flocs settled and sliding down the right slope would join the high inflow stream directed down, which is then directed up through the semicircle at the bottom and back into being resuspsended in the floc blanket. However, the flocs sliding the left side then collide with the flocs in the upward stream to form larger flocs to be resuspended in the blanket.
-
-[EM: Sentence starting with "The flocs settled and sliding down.." doesn't really make sense. Might be grammatically incorrect.]
+As seen in Figure 4, the AguaClara sedimentation tanks utilize two sloped surfaces to guide settling particles into the central high flow area. The off-centered input of water results in a difference in end results of the settling flocs. The flocs that slide down the slope on the right would join the high inflow stream directed down, which are subsequently directed up through the semicircle at the bottom and become resuspsended in the floc blanket. However, the flocs sliding down left side would collide with the flocs in the upward stream to form larger flocs to be resuspended in the blanket.
 
 Inspired by this design, the HRS Bottom Geometry Team along with the Fluoride Auto Team designed the "Symmetrical AguaClara Plant Design."
 
