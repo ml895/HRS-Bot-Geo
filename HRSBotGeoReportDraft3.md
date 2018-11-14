@@ -1,14 +1,14 @@
 # High Rate Sedimentation - Bottom Geometry, Fall 2018
 #### Kanha Matai (km694), Madeleine Lee (ml895)
-#### 26 Oct 2018
-
-[EM: Hi BotGeo! I will be putting my comments in brackets under the paragraph that I am referring to. Thanks!]
+#### 14 Oct 2018
 
 ## Abstract
 The purpose of the High Rate Sedimentation (HRS) Bottom Geometry is to determine a method for eliminating or reducing the floc blanket decay currently occurring in sedimentation tanks in the lab. The team hopes to accomplish this by developing a new shape and geometry for the bottom of the sedimentation tube in order to maximize the reuse of large settling flocs.
 
 ## Introduction
-The main challenge for the Bottom Geometry team is finding an optimal bottom geometry of the tube settler. The bottom geometry influences the density of the floc blanket, which is a dense layer of suspended flocs which allows particulates which have not coagulated, or coagulated particulates too small to settle, to attach onto the flocs which can be removed. Finding an optimal bottom geometry of the tube settler is vital to sedimentation because it can increase sedimentation efficiency by evening the floc blanket in the settler. Sedimentation is a crucial part of a water treatment plants as it acts as the major removal method for suspended and coagulated minerals, dirt and particles.
+The main challenge for the Bottom Geometry team is finding an optimal bottom geometry of the tube settler. The bottom geometry influences the density of the floc blanket, which is a dense layer of suspended flocs which allows particulates which have not coagulated, or coagulated particulates too small to settle, to attach onto the flocs which can be removed. 
+
+Finding an optimal bottom geometry of the tube settler is vital to sedimentation because it can increase sedimentation efficiency by evening the floc blanket in the settler. Sedimentation is a crucial part of a water treatment plants as it acts as the major removal method for suspended and coagulated minerals, dirt and particles.
 
 [EM: Too many "which" in the second sentence. Consider revising and making it shorter. Also, consider introducing the purpose of sedimentation first. It allows a natural lead-in to the rest of the introduction.]
 
