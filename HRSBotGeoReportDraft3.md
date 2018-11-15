@@ -97,52 +97,23 @@ Although the conical shape was tested by the HRS Summer 2018 team, the centered 
 **Figure 6: Off-center conical insert with circular cross sections and water inlet at the tip.**
 
 ## Results and Analysis
-Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
-In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
-
-When describing your results, present your data, using the guidelines below:
-* What happened? What did you find?
-* Show your experimental data in a professional way.
-```python
-from aide_design.play import*
-x = np.array([1,2,3,4,5])
-y = np.array([1,2,3,4,5])
-plt.figure('ax',(10,8))
-plt.plot(x,y,'*')
-plt.savefig('/Users/jillianwhiting/github/Jillian-Whiting/Images/linear')
-plt.show()
-```
-![linear](https://github.com/jillianwhiting/Jillian-Whiting/blob/master/Images/linear.png?raw=true)
-Figure 1: Captions are very important for figures. Captions go below figures.
-
-After describing a particular result, within a paragraph, go on to connect your work to fundamental physics/chemistry/statics/fluid mechanics, or whatever field is appropriate. Analyze your results and compare with theoretical expectations; or, if you have not yet done the experiments, describe your expectations based on established knowledge. Include implications of your results. How will your results influence the design of AguaClara plants? If possible provide clear recommendations for design changes that should be adopted. Show your experimental data in a professional way using the following guidelines:
-* Why did you get those results/data?
-* Did these results line up with expectations?
-* What went wrong?
-* If the data do not support your hypothesis, is there another hypothesis that describes your new data?
-
------Failed control experiment
+The first experiment run by the Bottom Geometry team was the baseline control experiment at 3mm/s upflow speed.
 
 ![Failed Control Experiment](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/Baseline%20Attempt.PNG)
 **Figure 7: Graph of failed control experiment with high effluent turbidity.**
 
-As seen in the graph, the turbidity of the effluent lies between 30 NTU and 60 NTU for the first 5.25 hours. In the beginning before the first hour, a floc blanket formed and stabilized. This allowed particles to attach to it, which caused an initial drop in the turbidity. However, after the initial drop, the blanket began to decay fairly quickly since the effluent turbidity began to rise again. Upon closer analysis, it was found that the improper calibration of the pumps caused the floc blanket to fail.
-
------Successful experiment 3mm
+As seen in the graph, the turbidity of the effluent lies between 30 NTU and 60 NTU for the first 5.25 hours. In the beginning before the first hour, a floc blanket formed and stabilized. However, the blanket began to decay fairly quickly, which is indicated by the rapid increase of effluent turbidity. Upon closer analysis, it was found that the improper calibration of the pumps caused the floc blanket to fail due to excessively high flowrate through the system. Hence, another trial was set with the recalibrated pump.
 
 ![Successful Experiment of 3mm](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/3mm%20original%20flocc.PNG)
 **Figure 8: Graph of 3 mm/s upflow velocity.**
 
-Within the first hour, a stable floc blanket formed which is indicated by a low effluent turbidity of below 5 NTU. Although the floc blanket appeared unstable, the experiment had a long run time of 14 hours and the effluent turbidity stayed below 10 NTU and the decay was linear as opposed to exponential in previous semesters. Compared to the results of the previous HRS teams' experiments, the blanket was more stable and efficient. The summer 2018 team was able to produce a balnket at 3 mm/s upflow velocity, but they were not able to produce one at 2 mm/s upflow velocity.
+In this experiment, a stable floc blanket formed with a consistant effluent turbidity of below 5 NTU. Although the floc blanket appeared unstable, the experiment had a long run time of 14 hours and the effluent turbidity stayed below 10 NTU. Additionally, decay was linear as opposed to exponential decays observed in previous semesters. Compared to the results of the previous HRS teams' experiments, the blanket formed was more stable and efficient. The summer 2018 team was able to produce a blanket at 3 mm/s upflow velocity, but they were not able to produce one at 2 mm/s upflow velocity. Hence, a trial was set to compare the performance at 2mm/s upflow velocity between the Bottom Geometry system and the HRS Summer 2018 results.
 
------Successful experiment 2mm
 Below are the results from the experiment run with an upflow velocity of 2 mm/s.
 ![2mm Successful Experiment](https://github.com/AguaClara/HRS-Bot-Geo/blob/master/Images/2mm%20original%20flocc.PNG?raw=true)
 **Figure 9: 2mm/s Upflow velocity trial**
 
-In this experiment, the filter performance was good, with consistent removal of 2-4 NTU throughout the experiment. Additionally, the filter had no floc blanket decay as the effluent NTU remained constant throughout the trial. The increase in turbidity at the end of the figure was contributed to the finishing of clay stock, not the decay of the blanket itself.
-
-This result strongly contradicts that obtained by the HRS Summer 2018 team, who were unable to obtain a floc blanket and had effluent turbidity of 40 NTU in their experiments at 2mm/s upflow velocities. Additionally, this result also contradicts results obtained by the previous few HRS teams, as the floc blanket did not decay. After comparing the lab setup between the apparatus with that of the Summer and previous semester teams, the Bottom Geometry team believed the difference would be attributed to the difference in flocculators. Hence, a trial was set up to compare whether the different in flo
+In this experiment, a floc blanket formed with consistent removal of 2-4 NTU. Additionally, there was no floc blanket decay as the effluent NTU remained constant throughout the trial. The increase in turbidity at the end of the figure was contributed to the finishing of clay stock, not the decay of the blanket itself. This result strongly contradicts that obtained by the HRS Summer 2018 team, as the Bottom Geometry team was able to form a blanket at 2mm/s. Additionally, results also contradicted observations by the previous few HRS teams, as the floc blanket did not decay. After comparing the lab setup between the apparatus with that of the Summer and previous semester teams, the Bottom Geometry team believed the difference would be attributed to the difference in flocculators, as other components appeared identical. Hence, a trial was set up to compare whether the flocculator would impact the floc blanket formation.
 
 
 ------Successful experiment 2mm comparing flocculators
