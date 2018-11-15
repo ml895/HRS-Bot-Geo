@@ -88,14 +88,15 @@ As seen in Figure 5 above, this design closely resembled the AguaClara plant, wi
 
 Design 2 - Off-centered Cone
 
-Although the conical shape was tested by the HRS Summer 2018 team, the centered design still caused a buildup of flocs. The off-center conical shape most closely resembles the sliced tube filter designed by a previous Fluoride team. If the water inflow comes from the side of the tube, it can break up the rings of flocs that would have otherwise collected near the bottom.
+Although the conical shape was tested by the HRS Summer 2018 team, the centered design still caused a buildup of flocs. The off-center conical shape most closely resembles the sliced tube filter designed by a previous Fluoride team. If the water inflow comes from the side of the tube, it can break up the rings of flocs that would have otherwise collected near the bottom. This exactly conical design would not be practical to insert into the tube settler, so a new design was created to make testing easier. The new design is shaped like a regular cylinder, but the hollow part of the cylinder is shaped like an off-center cone, and there is an open hole for the water inlet.
 
 ![Symmetrical AguaClara Plant Design](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/off%20center%20cone%20CAD.PNG)
 ![Symmetrical AguaClara Plant Design](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/off%20center%20cone.PNG)
+![Symmetrical AguaClara Plant Design](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/off%20center%20cone%20in%20cylinder%20CAD.PNG)
 
 **Figure 6: Off-center conical insert with circular cross sections and water inlet at the tip.**
 
-**END OF DRAFT 1**
+**END OF DRAFT 3**
 ________________________________________________________________________________________________________________________________________
 
 ## Results and Analysis
