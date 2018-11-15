@@ -1,6 +1,6 @@
 # High Rate Sedimentation - Bottom Geometry, Fall 2018
 #### Kanha Matai (km694), Madeleine Lee (ml895)
-#### 14 Nov 2018
+#### 16 Nov 2018
 
 ## Abstract
 The purpose of the High Rate Sedimentation (HRS) Bottom Geometry is to determine a method for eliminating or reducing the floc blanket decay currently occurring in sedimentation tanks in the lab. The team hopes to accomplish this by developing a new shape and geometry for the bottom of the sedimentation tube in order to maximize the reuse of large settling flocs.
@@ -96,9 +96,6 @@ Although the conical shape was tested by the HRS Summer 2018 team, the centered 
 
 **Figure 6: Off-center conical insert with circular cross sections and water inlet at the tip.**
 
-**END OF DRAFT 3**
-________________________________________________________________________________________________________________________________________
-
 ## Results and Analysis
 Present an observation (results), then explain what happened (analysis).  Each paragraph should focus on one aspect of your results. In that same paragraph, you should interpret that result.  
 In other words, there should not be two distinct paragraphs, but instead one paragraph containing one result and the interpretation and analysis of this result. Here are some guiding questions for results and analysis:
@@ -124,6 +121,39 @@ After describing a particular result, within a paragraph, go on to connect your 
 * What went wrong?
 * If the data do not support your hypothesis, is there another hypothesis that describes your new data?
 
+-----Failed control experiment
+
+![Failed Control Experiment](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/Baseline%20Attempt.PNG)
+**Figure 7: Graph of failed control experiment with high effluent turbidity.**
+
+As seen in the graph, the turbidity of the effluent lies between 30 NTU and 60 NTU for the first 5.25 hours. In the beginning before the first hour, a floc blanket formed and stabilized. This allowed particles to attach to it, which caused an initial drop in the turbidity. However, after the initial drop, the blanket began to decay fairly quickly since the effluent turbidity began to rise again. Upon closer analysis, it was found that the improper calibration of the pumps caused the floc blanket to fail.
+
+-----Successful experiment 3mm
+
+![Successful Experiment of 3mm](https://raw.githubusercontent.com/AguaClara/HRS-Bot-Geo/master/Images/3mm%20original%20flocc.PNG)
+**Figure 8: Graph of 3 mm/s upflow velocity.**
+
+Within the first hour, a stable floc blanket formed which is indicated by a low effluent turbidity of below 5 NTU. Although the floc blanket appeared unstable, the experiment had a long run time of 14 hours and the effluent turbidity stayed below 10 NTU and the decay was linear as opposed to exponential in previous semesters. Compared to the results of the previous HRS teams' experiments, the blanket was more stable and efficient. The summer 2018 team was able to produce a balnket at 3 mm/s upflow velocity, but they were not able to produce one at 2 mm/s upflow velocity.
+
+-----Successful experiment 2mm
+Below are the results from the experiment run with an upflow velocity of 2 mm/s.
+![2mm Successful Experiment](https://github.com/AguaClara/HRS-Bot-Geo/blob/master/Images/2mm%20original%20flocc.PNG?raw=true)
+**Figure 9: 2mm/s Upflow velocity trial**
+
+In this experiment, the filter performance was good, with consistent removal of 2-4 NTU throughout the experiment. Additionally, the filter had no floc blanket decay as the effluent NTU remained constant throughout the trial. The increase in turbidity at the end of the figure was contributed to the finishing of clay stock, not the decay of the blanket itself.
+
+This result strongly contradicts that obtained by the HRS Summer 2018 team, who were unable to obtain a floc blanket and had effluent turbidity of 40 NTU in their experiments at 2mm/s upflow velocities. Additionally, this result also contradicts results obtained by the previous few HRS teams, as the floc blanket did not decay. After comparing the lab setup between the apparatus with that of the Summer and previous semester teams, the Bottom Geometry team believed the difference would be attributed to the difference in flocculators. Hence, a trial was set up to compare whether the different in flo
+
+
+------Successful experiment 2mm comparing flocculators
+
+
+-------Floc buildup
+gelling
+we dont want bc is hard to clean up
+good performance with buildup, cleaning is too difficult
+impractical
+
 ## Conclusions
 Explain what you have learned and how that influences your next steps. Why does what you discovered matter to AguaClara?
 
@@ -136,43 +166,78 @@ Describe your plan of action for the next several weeks of research. Detail the 
 Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for Trickling Filter Process Design. Journal (Water Pollution Control Federation), 59(12), 1029–1042.
 
 # Manual
-The goal of this section is to provide all of the guidance that would be necessary for a future team to pick up your work where you left off. Please try to be thorough and put yourselves in the shoes of a newcomer to the project. Below are some recommended sections, but the manual will likely take a slightly different form for each team.
-
-## Fabrication Details
-Include any information related to the fabrication of equipment, experimental apparatuses, or technologies. Include the purpose of each step and the fabrication methods used. Reference appropriate safety precautions.
-
-## Special Components
-If your subteam uses a particular part that is unique and you could foresee a future subteam needing to order it or learn more about it, please include basic information like the vendor where it was purchased, catalog/item number, and a link to any documentation.
-
 ## Experimental Methods
-### Set-up
-Step 1.
-* Put tasks in a sequential order.
-* It is okay to have sub-lists.
-  - Like this.
 
-### Experiment
-Step 1.
+The following is a general outline of tasks to be done prior, during, and after experimentation. ProCoDA is a software that is used extensively during experiments; the software allows the user to automate data collection and various components of the experimental apparatus. PID stands for proportional integral derivative and is calibrated to control the clay pump via ProCoDA.
 
-### Cleaning Procedure
-Step 1.
-
-## Experimental Checklist
-Another potential section could include a list of things that you need to check before running an experiment.
-
-## ProCoDA Method File
-Use this section to explain your method file. This could be broken up into several components as shown below:
+ 1. Drain the sedimentation tank and flocculator from previous experimental trial, if necessary.
+ 2. Refill clay and coagulant stock tanks.
+ 3. Run tap water through the system to rinse the flocculator, sedimentation tank, and connecting piping.
+ 4. Rinse and refill turbidimeters.
+ 5. Use Python coagulant dosing calculation to determine the required coagulant pump speed for the desired coagulant dosage.
+ 6. Check all valves and connections to make sure desired pathways are clear and undesired pathways are blocked.
+ 7. Verify all influent, effluent and coagulant pumps are set to desired experimental flow rates.
+ 8. Turn on influent pump to fill sedimentation tank with clean water.
+ 9. Plug in clay stock stirrer if not already plugged in.
+ 10. Turn on influent, effluent, and coagulant pumps.
+ 11. Set state to PID control in ProCoDA (this will turn on clay pump and also turn on data collection).
+ 12. After the experiment has run for the desired runtime, Set ProCoDa state to OFF, and turn of the water pump and coagulant pump.
 
 ### States
-Here, you should describe the function of each state in your method file, both in terms of its overall purpose and also in terms of the details that make it distinct from other states. For example:
-\begin{itemize}
-\item \underline{OFF} - Resting state of ProCoDA. All sensors, relays, and pumps are turned off.
-\end{itemize}
+The sole state utilized was the PID control state, which controled the clay pump rpm The values of P, i, D were calibrated using this guide https://confluence.cornell.edu/display/AGUACLARA/Calibrating+PID+Control. The Turb Target is set at 100 NTU for all experiments as it is convention for this series of experiments.
 
+The water pump is also controlled by ProCoDA. Whereas, the pump after the sedimentation tank is controlled manually and is set at 60 rpm to maintain a 2 mm/s upflow velocity through the sedimentation tank.
 ### Set Points
-Here, you should list the set points used in your method file and explain their use as well as how each was calculated.
+
+| Set Point             | Setting |
+|:--------------------- |:------- |
+| Turb Target           | 100     |
+| P                     | 68      |
+| i                     | 125     |
+| D                     | 0       |
+| Influent Turbidty ID  | 1       |
+| Effluent Turbidity ID | 2       |
+| Floc removal time     | 10      |
+| Run time              | 3590    |
+| Fast pump             | 0.5     |
+| Normal pump           | 0.12    |
+
 
 ## Python Code
+Calculations were done in Python to determine PaCl coagulant dosing parameters and flocculator design parameters in order to run experiments and construct experimental apparatus.
+
+###PaCl Dosing Calculations
+
+The calculation logic for determining the coagulant dosing are derived from Dr. Monroe Weber-Shirk's CEE 4540 Lecture notes.
+
+```Python
+## PACl Dosing
+
+from aide_design.play import*
+
+#inputs
+C_sys = 4.2*(u.mg/u.L)         #C_sys is the desired concentration of coagulant in the system
+C_labstock = 70.28*(u.g/u.L)   #C_labstock is the concentration of coagulant in the stock
+Q_sys = 1*(u.mL/u.s)           #Q_sys is the flow rate of the system
+K_dilution = 5*(u.mL/u.L)      #K_dilution is the volume of coagulant per liter of distilled water
+V_reservoir = 5*(u.L)          #V_reservoir is the volume of the coagulant stock tank in the system
+Frac_reservoir = .76
+Q_per_rpm = .00195 *(u.mL/u.s) #Q_per_rpm is the coagulant pump flow rate per rpm
+
+#Calculations
+M_flow_coag = (Q_sys * C_sys).to(u.mg/u.s)  
+C_reservoir = (C_labstock * K_dilution).to(u.gram/u.L)
+Q_reservoir = (M_flow_coag / C_reservoir).to(u.mL/u.s)
+V_lab = ((V_reservoir * C_reservoir) / C_labstock).to(u.L)
+
+#Outputs
+RPM = Q_reservoir / Q_per_rpm                                       #RPM is the RPM required for coagulant dosage
+RunTime = ((V_reservoir * Frac_reservoir) / Q_reservoir).to(u.hour) #RunTime is the run time of the system
+
+print('The RPM needed for this coagulant dosage is' ,RPM)
+
+print('The run time is ', RunTime)
+```
 
 ### Variables
 $g$: gravity
