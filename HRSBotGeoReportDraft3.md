@@ -115,15 +115,14 @@ Below are the results from the experiment run with an upflow velocity of 2 mm/s.
 
 In this experiment, a floc blanket formed with consistent removal of 2-4 NTU. Additionally, there was no floc blanket decay as the effluent NTU remained constant throughout the trial. The increase in turbidity at the end of the figure was contributed to the finishing of clay stock, not the decay of the blanket itself. This result strongly contradicts that obtained by the HRS Summer 2018 team, as the Bottom Geometry team was able to form a blanket at 2mm/s. Additionally, results also contradicted observations by the previous few HRS teams, as the floc blanket did not decay. After comparing the lab setup between the apparatus with that of the Summer and previous semester teams, the Bottom Geometry team believed the difference would be attributed to the difference in flocculators, as other components appeared identical. Hence, a trial was set up to compare whether the flocculator would impact the floc blanket formation.
 
+![Flocculator Comparison](https://github.com/AguaClara/HRS-Bot-Geo/blob/master/Images/2mm%20flocc%20comparison.PNG?raw=true)
+**Figure 10: Flocculator comparison**
 
-------Successful experiment 2mm comparing flocculators
+In this figure, the effluent turbidity from the 2mm/s upflow velocity trial was plotted with the effluent turbidity at 2mm/s upflow velocity, but using the flocculator utilized by the HRS Summer 2018 team and the current HRS Floc Recycle team. The blue date indicates the results from figure 9 with the red data representing the date from the HRS Summer 2018 and Floc Recycle flocculator. From this data, the Bottom Geometry team could not attribute the variance in filter performance between the Bottom Geometry apparatus and previous HRS teams was caused by the flocculator. However, the team was able to conclude that the stability of filter was due to the buildup of flocs as opposed to a stable floc blanket.
+![Floc buildup](https://github.com/AguaClara/HRS-Bot-Geo/blob/master/Images/Floc%20buildup.PNG?raw=true)
+**Figure 11: Floc Buildup**
 
-
--------Floc buildup
-gelling
-we dont want bc is hard to clean up
-good performance with buildup, cleaning is too difficult
-impractical
+From the figure above, the Bottom Geometry was able to deduce that the stability was contributed due to the stationary buildup of flocs in the sedimentation tank. This acted similar to a floc blanket, with channels that allowed for smaller scaled flocs to pass through the large channels and get removed. Additionally, a dense floc blanket with actual suspended particles was positioned above the floc buildup, thus improving the filter efficiency. Although this filter worked efficiently and was stable, this performance cannot be carried forward into AguaClara plants as floc buildup would increase the required maintenance time and down time for the filter as these settled particles can only be removed manually. However, the next step for the Bottom geometry team was to determine whether similar buildup was occuring at 3mm/s upflow velocity.
 
 ## Conclusions
 Explain what you have learned and how that influences your next steps. Why does what you discovered matter to AguaClara?
@@ -134,9 +133,24 @@ Make sure that you defend your conclusions with facts and results.
 Describe your plan of action for the next several weeks of research. Detail the next steps for this team. How can AguaClara use what you discovered for future projects? Your suggestions for challenges for future teams are most welcome. Should research in this area continue?
 
 ## Bibliography
-Logan, B. E., Hermanowicz, S. W., & Parker,A. S. (1987). A Fundamental Model for Trickling Filter Process Design. Journal (Water Pollution Control Federation), 59(12), 1029–1042.
+AWWA/ASCE (2012).Water Treatment Plant Design.*Water Treatment Plant Design*. McGraw Hill,New York,fifth edition.
+
+Carissimi, E., Miller, J., and Rubio, J.   (2007). Characterization of the high kinetic energy dissipation of the Flocs Generator Reactor (FGR) - ScienceDirect.
+
+Galantino, C. and Kang, A. (2017).  High Rate Sedimentation, Summer 2017 - Overleaf.
+
+Garland,  C.,  Weber-Shirk,  M.,  and  Lion,  L.  W.  (2017).   Revisiting  Hydraulic  Flocculator  Design  for Use  in  Water  Treatment  Systems  with  Fluidized  Floc  Beds. *Environmental  Engineering  Science*,34(2):122-129.
+
+Kawamura, S. (1991).*Integrated Design and Operation of Water Treatment Facilities*.  Second edition.
+
+O'Melia,  C.R.  (1972). Coagulation  and Flocculation: Physicochemical  Processes  for  Water  Quality Control,.
+
+Pennock,  W.  H.,  Chan, F.  C.,  Weber-Shirk,  M.  L., and  Lion,  L.  W.  (2016). Theoretical Foundation and  Test  Apparatus  for an  Agent-Based  Flocculation Model. *Environmental  Engineering  Science*,33(9):688{698.
+
+Swetland, K. A., Weber-Shirk, M. L., and Lion, L. W. (2014). Flocculation-Sedimentation Performance Model for Laminar-Flow Hydraulic Flocculation with Polyaluminum Chloride and Aluminum Sulfate Coagulants. *Journal of Environmental Engineering*, 140(3):04014002.
 
 # Manual
+
 ## Experimental Methods
 
 The following is a general outline of tasks to be done prior, during, and after experimentation. ProCoDA is a software that is used extensively during experiments; the software allows the user to automate data collection and various components of the experimental apparatus. PID stands for proportional integral derivative and is calibrated to control the clay pump via ProCoDA.
@@ -223,7 +237,3 @@ $c_p$: celerity (wave phase speed)
 $P$: pressure
 $F$: force
 $u$, $w$: x-velocity, z-velocity components
-
-```python
-# Comment
-```
