@@ -8,3 +8,4 @@ Members:
   Madeleine Lee (ml895)
 
 Symposium 1: https://docs.google.com/presentation/d/1u3fxIf9vtdHHwcMWtzHYxHjPYZSLlFpZ1K_WBXNxf2Y/edit?usp=sharing
+Final Presentation: https://www.youtube.com/watch?v=zms88EbpgOI&list=PLhsGtpY8ipdZTn2HPI6C2uH44ADmc0Ra6&index=12&t=0s
