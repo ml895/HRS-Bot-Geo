@@ -17,6 +17,7 @@ However, in the AguaClara lab, the floc blanket would initially form but decay w
 A previous High Rate Sedimentation Team proposed changes to the bottom geometry of the tube settler in the summer of 2018. The tube settler initially had a flat bottom, but buildup was observed and grew about half an inch in height every ten minutes. A cone was drilled in the bottom of the water inflow tube, but floc buildup at the bottom was still observed. A possible explanation for the floc buildup would be that flocs locked together in  ring that was larger than the drilled hole, which could not be broken up by the upflow of water, therefore preventing the resuspension of those flocs.
 
 **Table 1: Summary of HRS Summer 2018 experiment results.**
+
 |Experiment|Upflow Velocity (mm/s)|Coagulant Dosage (mg/L)|Floc Blanket Formed|Ending Effluent Turbidity|Insights|
 |:---:|:---:|:--------:|:---|:------|:---|
 |[11](#experiment-11)|3|3.0|Yes|16 NTU|Faster floc blanket formation|
