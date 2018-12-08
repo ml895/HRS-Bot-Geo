@@ -1,6 +1,6 @@
 # High Rate Sedimentation - Bottom Geometry, Fall 2018
 #### Kanha Matai (km694), Madeleine Lee (ml895)
-#### 16 Nov 2018
+#### 7th Dec 2018
 
 ## Abstract
 Over the past several semesters, AguaClara has been facing problems with the stability of the floc blanket within the sedimentation tank. Although floc blankets would rapidly form within the sedimentation tank, the particle removal by floc blanket decreased with time as indicated by the increase in effluent turbidity, known as floc blanket decay. Hence, the purpose of the High Rate Sedimentation Bottom Geometry is to determine a method for eliminating or reducing the floc blanket decay currently occurring in sedimentation tanks in the lab. The team hopes to accomplish this by developing a new shape and geometry of the bottom of the sedimentation tube in order to maximize the reuse of large settling flocs.
