@@ -1,14 +1,13 @@
 # HRS-Bot-Geo
-High Rate Sedimentation, Bottom Geometry team.
+High Rate Sedimentation: Bottom Geometry
 
-We will be focusing on the redesigning of the input of water into the high rate sedimentation tanks. This will include the 3D drawing and printing of the inserts.
+This semester, we will redesign the shape of the bottom of the high rate sedimentation tanks by creating filter inserts using CAD and 3D printing. 
 
 Members:
-  Kanha Matai (km694)
   Madeleine Lee (ml895)
+  Luis Benitez (leb252)
+  Elizabeth Jung (ejj45)
 
-Symposium 1: https://docs.google.com/presentation/d/1u3fxIf9vtdHHwcMWtzHYxHjPYZSLlFpZ1K_WBXNxf2Y/edit?usp=sharing 
-
-Final Presentation: https://docs.google.com/presentation/d/1PV9bagOBUy-ZvQFPDu0bNqsb2AYa8h4Tqu0voEA8McE/edit#slide=id.g346a079b2f_0_0 
-
-Final Presentation Video: https://www.youtube.com/watch?v=zms88EbpgOI&list=PLhsGtpY8ipdZTn2HPI6C2uH44ADmc0Ra6&index=12&t=0s
+Fall 2018 Symposium 1: https://docs.google.com/presentation/d/1u3fxIf9vtdHHwcMWtzHYxHjPYZSLlFpZ1K_WBXNxf2Y/edit?usp=sharing 
+Fall 2018 Final Presentation: https://docs.google.com/presentation/d/1PV9bagOBUy-ZvQFPDu0bNqsb2AYa8h4Tqu0voEA8McE/edit#slide=id.g346a079b2f_0_0 
+Fall 2018 Final Presentation Video: https://www.youtube.com/watch?v=zms88EbpgOI&list=PLhsGtpY8ipdZTn2HPI6C2uH44ADmc0Ra6&index=12&t=0s
