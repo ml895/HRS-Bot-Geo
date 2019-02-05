@@ -8,7 +8,6 @@ RA: Kanha Matai (km694)
 Members:
   Madeleine Lee (ml895)
   Luis Benitez (leb252)
-  Elizabeth Jung (ejj45)
 
 Fall 2018 Symposium 1: https://docs.google.com/presentation/d/1u3fxIf9vtdHHwcMWtzHYxHjPYZSLlFpZ1K_WBXNxf2Y/edit?usp=sharing 
 
