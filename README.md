@@ -9,9 +9,9 @@ Members:
   Madeleine Lee (ml895)
   Luis Benitez (leb252)
 
-##Spring 2019
+## Spring 2019
 
-##Fall 2018
+## Fall 2018
 
 [Fall 2018 Symposium 1](https://docs.google.com/presentation/d/1u3fxIf9vtdHHwcMWtzHYxHjPYZSLlFpZ1K_WBXNxf2Y/edit?usp=sharing)
 
