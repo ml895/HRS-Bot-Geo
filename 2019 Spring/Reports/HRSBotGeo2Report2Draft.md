@@ -72,6 +72,7 @@ PID Control is the state that is used to run experiments. PID Control controls t
 Figure 9: Rules and Outputs of PID Control. These are the parameters used in the experiments.
 
 Table 1: This table details the set points in ProCoDA for the PID Control state.
+
 | Set Point             | Setting |
 |:--------------------- |:------- |
 | Turb Target           | 100     |
